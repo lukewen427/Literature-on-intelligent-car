@@ -5,7 +5,7 @@
 <strong>Last Update: July, 20th, 2021</strong>.	
 
 
-## Publications in Top-tier ML/CV/NLP/DM Conference (ICML, NeurIPS, ICLR, CVPR, ACL, AAAI, KDD) ##预留 更换或添加顶会
+## Publications in Top-tier ML/CV/ Conference (ICML, NeurIPS, ICLR, CVPR, ACL, AAAI, KDD) ##预留 更换或添加顶会  修改：添加小车研究方向的顶会
 ### ICML
 | Title                                                                    | Team/Authors              | Venue and Year     | Targeting Problem     | Method                |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@
 
 
 
-## Research Areas  研究领域分类及引索
+## Research Areas 修改： 添加研究领域分类及引索
 #### Statistical Challenges: data distribution heterogeneity and label deficiency (159)
  - [Distributed Optimization](#Distributed-optimization (68))
  - [Non-IID and Model Personalization](#Non-IID-and-Model-Personalization (53))
@@ -121,7 +121,7 @@
 
 以下做修改参考：
 
-
+修改：上面的引索对应下面的分类。
 
 # Statistical Challenges: distribution heterogeneity and label deficiency 
 
