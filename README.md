@@ -3,11 +3,11 @@
 # 小车研究方向和文献
 
 
-## Publications in Top-tier ML/CV/ Conference (ICML, NeurIPS, ICLR, CVPR, ACL, AAAI, KDD) ##预留 更换或添加顶会  修改：添加小车研究方向的顶会
-### ICML
+## Publications in Top-tier ML/CV/ Conference (ICRA ,AAAI, KDD) ##预留 更换或添加顶会  修改：添加小车研究方向的顶会
+### ICRA
 | Title                                                                    | Team/Authors              | Venue and Year     | Targeting Problem     | Method                |
 |---|---|---|---|---|
-| [Federated Learning with Only Positive Labels](https://arxiv.org/pdf/2004.10342.pdf) ##预留                   | Google Research            |   ICML 2020        | label deficiency in multi-class classification    |  regularization |
+| [RoadMap:ALight-WeightSemanticMapforVisualLocalizationtowardsAutonomousDriving  2021-6](https://arxiv.org/pdf/2106.02527v1.pdf) | TongQin     |   ICRA 2021    | label deficiency in multi-class classification    |  regularization |
 |         |       |                |                                                |                |
 |                                                              |                 |                |                                                |                |
 |                                                              |                 |                |                                                |                |
@@ -34,7 +34,6 @@
 # 定位
 
 ## 道路定位
-
 
 [RoadMap:ALight-WeightSemanticMapforVisualLocalizationtowardsAutonomousDriving  2021-6](https://arxiv.org/pdf/2106.02527v1.pdf)
 
