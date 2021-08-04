@@ -20,12 +20,12 @@
 
 ## Research Areas 修改： 添加研究领域分类及引索
 #### 定位
- - [道路定位](#Non-IID-and-Model-Personalization (53))
- - [子方向](#Semi-Supervised-Learning (3))
+ - [道路定位](#道路定位 (53))
+ - [子方向](#子方向)
 
 
 #### 方向二
- - [二子方向](#Adversarial-Attack-and-Defense)
+ - [二子方向](#二子方向)
 
    以下做修改参考：
 
