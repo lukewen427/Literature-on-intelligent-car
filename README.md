@@ -7,7 +7,7 @@
 ### ICRA
 | Title                                                                    | Team/Authors              | Venue and Year     | Targeting Problem     | Method                |
 |---|---|---|---|---|
-| [RoadMap:ALight-WeightSemanticMapforVisualLocalizationtowardsAutonomousDriving  2021-6](https://arxiv.org/pdf/2106.02527v1.pdf) | TongQin     |   ICRA 2021    | 道路建图与定位 | 高精度传感器提供地图给低精度传感器 |
+| [RoadMap:A Light-Weight Semantic Map for Visual Localization towards Autonomous Driving 2021-6](https://arxiv.org/pdf/2106.02527v1.pdf) | TongQin     |   ICRA 2021    | 道路建图与定位 | 高精度传感器提供地图给低精度传感器 |
 |         |       |                |                                                |                |
 |                                                              |                 |                |                                                |                |
 |                                                              |                 |                |                                                |                |
