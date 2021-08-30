@@ -8,6 +8,7 @@
 | Title                                                                    | Team/Authors              | Venue and Year     | Targeting Problem     | Method                |
 |---|---|---|---|---|
 | [RoadMap:A Light-Weight Semantic Map for Visual Localization towards Autonomous Driving 2021-6](https://arxiv.org/pdf/2106.02527v1.pdf) | TongQin     |   ICRA 2021    | 道路建图与定位 | 高精度传感器提供地图给低精度传感器 |
+| [semantically-aware strategies for stereo-visual robotic obstacle avoidance](https://arxiv.org/pdf/2107.06401.pdf) | Jungseok Hong     |   ICRA 2021    | 语义特征避障 | 融合语义地图与人工势场法 |
 |         |       |                |                                                |                |
 |                                                              |                 |                |                                                |                |
 |                                                              |                 |                |                                                |                |
@@ -24,7 +25,7 @@
  - [子方向](#子方向)
 
 
-#### 方向二
+#### 避障
  - [二子方向](#二子方向)
 
    以下做修改参考：
