@@ -49,28 +49,17 @@
 
 
 ## 其他
-[Boosting Privately: Privacy-Preserving Federated Extreme Boosting for Mobile Crowdsensing](https://arxiv.org/pdf/1907.10218.pdf)
-
-[Self-supervised audio representation learning for mobile devices](https://arxiv.org/pdf/1905.11796.pdf)
-
-[Combining Federated and Active Learning for Communication-efficient Distributed Failure Prediction in Aeronautics](https://arxiv.org/pdf/2001.07504.pdf)
-
-[PMF: A Privacy-preserving Human Mobility Prediction Framework via Federated Learning](https://vonfeng.github.io/files/UbiComp2020_PMF_Final.pdf)
-
-[Federated Multi-task Hierarchical Attention Model for Sensor Analytics](https://arxiv.org/pdf/1905.05142.pdf)
-
-[DÏoT: A Federated Self-learning Anomaly Detection System for IoT](https://arxiv.org/pdf/1804.07474.pdf)
+[xxx](xxx)
 
 # Benchmark, Dataset and Survey 
 
 ## Benchmark and Dataset
 
-[The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems](https://arxiv.org/pdf/2006.07856.pdf)
+[xxx](xxx)
 
 ## Survey
 
-[A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693.pdf)
+[xxx](xxx)
 
-Researcher: Bingsheng He, NUS [Qinbin Li, PhD, NUS, HKUST](https://qinbinli.com/files/CV_QB.pdf)
 
-http://arxiv.org/pdf/2002.09668.pdf)
+
